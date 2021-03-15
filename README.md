@@ -15,4 +15,4 @@ uvicorn app:app --reload
 
 # tinker with api using swaggerUI
 
-http://localhost:8000/docs
+use the **/docs** path on you host e.g **http://localhost:8000/docs**
